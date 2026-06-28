@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Редакторы
+.vscode/
+.idea/
